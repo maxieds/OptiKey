@@ -3,7 +3,7 @@
      <Name>Anna's Custom Hacking Keyboard Profile (Page 1)</Name>
      <Symbol>ALPHA_LETTERS</Symbol>
      <HideFromKeyboardMenu>False</HideFromKeyboardMenu>
-     <ShowOutputPanel>True</ShowOutputPanel>
+     <ShowOutputPanel>False</ShowOutputPanel>
      <Grid>
           <Rows>5</Rows>
           <Cols>24</Cols>
